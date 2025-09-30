@@ -72,18 +72,3 @@ int main(int argc, char **argv) {
     return 0;
 }
 
-/*
-Date: September 30, 2025
-Service: Deepseek
-Prompt: 'How to compile code in google colab using nvcc to match colabs cuda version?'
-Response: 'Try different compute capabilities
-            # Try different arch flags
-            nvcc -arch=sm_70 -o 
-
-            # If that doesn't work
-            nvcc -arch=sm_80 -o 
-
-            # Or try compute_XX instead of sm_XX
-            nvcc -arch=compute_75 -o'
-Used: "nvcc -arch=sm_70 -o"
-*/
