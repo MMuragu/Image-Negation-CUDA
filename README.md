@@ -1,6 +1,6 @@
 # CUDA Image Negation - Parallel Processing Solution
 
-UDA image negation solver - Fixes Tesla T4 PTX compilation issues in Colab. Complete parallel processing assignment solution with PPM support.
+CUDA image negation solver - Fixes Tesla T4 PTX compilation issues in Colab. 
 
 ## Project Structure
 
